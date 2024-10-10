@@ -14,4 +14,4 @@ To use the extractor API use a POST on the **http://localhost:8080/extractor/upl
 
 Afterwards the data will be sent back to the user and also put into the OUTPUT_FILE mentioned in Common.Java.
 
-To use the predictor API use a GET on the **http://localhost:8080/predictor** address and will return a list composed of the **OUTPUT_FILE** and 3 new predictions based on the behaviour before
+To use the predictor API use a GET on the **http://localhost:8080/predictor** address and will return a list composed of the **OUTPUT_FILE** and 3 new predictions based on the behaviour before.
